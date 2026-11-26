@@ -1,0 +1,98 @@
+{
+ "version": 1,
+ "styles": [
+  {
+   "id": "woodl",
+   "name": "Woodl Style",
+   "kind": "single",
+   "file": "dala-default.json",
+   "about": "The original Dala caption: one clean line, revealed as it is spoken",
+   "preview": "previews/woodl.webp",
+   "thumb": "previews/woodl-thumb.webp",
+   "needs": {
+    "Deep Glow": [
+     "PEDG"
+    ]
+   },
+   "fonts": [
+    "CoolveticaRg-Regular"
+   ],
+   "seconds": 5.2
+  },
+  {
+   "id": "txt-preset-1",
+   "name": "Text Preset 1",
+   "kind": "family",
+   "file": "txt-preset-1.json",
+   "about": "Bold single-line looks: questions, shouts and a hero title, picked per line",
+   "styles": [
+    "txtp1_1",
+    "txtp1_2",
+    "txtp1_3",
+    "txtp1_4",
+    "txtp1_5",
+    "txtp1_6"
+   ],
+   "needs": {
+    "Sapphire": [
+     "S_TextureFlux",
+     "S_TextureFolded",
+     "S_TexturePlasma"
+    ],
+    "Deep Glow": [
+     "PEDG"
+    ],
+    "Animation Composer": [
+     "Pseudo/MHAC PrCtrl W4O 4"
+    ]
+   },
+   "fonts": [
+    "CoolveticaRg-Regular",
+    "HambuRadul-Italic",
+    "LucidaCalligraphy-Italic",
+    "MVBoli",
+    "TimesNewRomanPS-BoldMT"
+   ],
+   "preview": "previews/txt-preset-1.webp",
+   "thumb": "previews/txt-preset-1-thumb.webp",
+   "seconds": 15.9
+  },
+  {
+   "id": "txt-preset-2",
+   "name": "Text Preset 2",
+   "kind": "family",
+   "file": "txt-preset-2.json",
+   "about": "Kinetic phrases: each part of the line pops in when it is spoken",
+   "styles": [
+    "txtp2_1",
+    "txtp2_2",
+    "txtp2_3"
+   ],
+   "needs": {
+    "Animation Composer": [
+     "Pseudo/MHAC PrCtrl 8FC 4",
+     "Pseudo/MHAC PrCtrl EKL 4",
+     "Pseudo/MHAC PrCtrl LAW 12",
+     "Pseudo/MHAC PrCtrl ZXN 12"
+    ],
+    "Deep Glow": [
+     "PEDG"
+    ],
+    "Boris FX BCC": [
+     "BCC Halftone"
+    ],
+    "Sapphire": [
+     "S_WipeLine"
+    ]
+   },
+   "fonts": [
+    "ArialRoundedMTBold",
+    "GameOfSquids",
+    "Utsaah-Bold"
+   ],
+   "preview": "previews/txt-preset-2.webp",
+   "thumb": "previews/txt-preset-2-thumb.webp",
+   "seconds": 9.2
+  }
+ ]
+}
