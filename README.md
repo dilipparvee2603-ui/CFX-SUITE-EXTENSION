@@ -6,12 +6,41 @@
 [![Version](https://img.shields.io/badge/version-v1.0.0-ef4444.svg?style=for-the-badge)](https://github.com/dilipparvee2603-ui/CFX-SUITE-EXTENSION)
 [![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-2020%20--%202026%2B-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dilipparvee2603-ui/CFX-SUITE-EXTENSION)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE)
+[![Release](https://img.shields.io/badge/Download-Release%20v1.0.0-22c55e.svg?style=for-the-badge&logo=github)](https://github.com/dilipparvee2603-ui/CFX-SUITE-EXTENSION/releases/tag/v1.0.0)
 
 <br/>
 
 **The all-in-one AI-powered editorial workspace for Adobe After Effects.**  
 *Combines local Speech-to-Text, Neural Translation, Computer Vision Auto-Tracking, Beat Detection, Stem Separation, Seamless VFX Presets, and Precision Workflow Tools into a unified Neon Crimson interface.*
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🎙️ Auto Captions & Translation</b></td>
+    <td align="center"><b>🎯 Auto Tracker (Face & Point AI)</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/01_auto_captions.png" width="360" alt="Auto Captions"></td>
+    <td><img src="docs/screenshots/02_auto_tracker.png" width="360" alt="Auto Tracker"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚡ VFX Presets (Shakes & Timing)</b></td>
+    <td align="center"><b>⚡ VFX Presets (Twixtor Automation)</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/04_presets_shakes.png" width="360" alt="VFX Presets Shakes"></td>
+    <td><img src="docs/screenshots/05_presets_twixtor.png" width="360" alt="VFX Presets Twixtor"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎵 Audio Studio (Beats & Stems)</b></td>
+    <td align="center"><b>🛠️ General Workflow Tools</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/06_audio_studio.png" width="360" alt="Audio Studio"></td>
+    <td><img src="docs/screenshots/03_general_tools.png" width="360" alt="General Tools"></td>
+  </tr>
+</table>
 
 ---
 
