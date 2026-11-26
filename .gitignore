@@ -1,3 +1,14 @@
+# Proprietary Extension Source Code (Release-only Repo)
+CSXS/
+client/
+host/
+whisper/
+presets/
+captions/
+*.bat
+*.ps1
+.debug
+
 # Python
 __pycache__/
 *.py[cod]
